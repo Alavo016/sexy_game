@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>🔥 Sexy Game</title>
+  <link rel="manifest" href="manifest.json" />
+  <meta name="theme-color" content="#b24592" />
+  <link rel="stylesheet" href="style.css">
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('service-worker.js');
+    }
+  </script>
+</head>
+<body>
+  <div class="container">
+    <h1>🔥 Jeu Sexy : Action ou Vérité</h1>
+    <p>Choisis un <strong>mode de jeu</strong> pour commencer :</p>
+    <select id="mode">
+      <option value="couple">👩‍❤️‍👨 Couple</option>
+      <option value="sexfriends">😈 Sexfriends</option>
+      <option value="distance">📱 À distance</option>
+      <option value="secret">🫣 Secret</option>
+    </select>
+
+    <p>Sélectionne le <strong>niveau de difficulté</strong> :</p>
+    <select id="niveau">
+      <option value="soft">🟢 Soft</option>
+      <option value="medium">🟡 Medium</option>
+      <option value="hot">🔴 Hot</option>
+      <option value="extreme">⚠️ Extrême</option>
+    </select>
+
+    <div class="buttons">
+      <button onclick="showTruth()">🎤 Vérité</button>
+      <button onclick="showDare()">🎬 Action</button>
+    </div>
+
+    <div id="result"></div>
+    <div class="options">
+      <button onclick="skip()">⏭️ Passer</button>
+      <button onclick="saveFavorite()">⭐ Ajouter à mes favoris</button>
+    </div>
+
+    <div class="stats">
+      <p id="stats"></p>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

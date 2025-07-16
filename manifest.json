@@ -1,0 +1,22 @@
+{
+  "name": "Sexy Game - Action ou Vérité",
+  "short_name": "SexyGame",
+  "description": "Une application sexy pour pimenter vos soirées : action, vérité, défis et fun pour couples ou partenaires.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#b24592",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
