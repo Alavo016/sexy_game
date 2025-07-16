@@ -1,3 +1,5 @@
+<img width="512" height="512" alt="icon-512 png" src="https://github.com/user-attachments/assets/92df3fe6-4ef9-4b13-b288-4cea26ff636a" />
+<img width="192" height="192" alt="icon-192 png" src="https://github.com/user-attachments/assets/97046c66-a245-4cfa-a09e-f0cdc9a1b5fb" />
 # 🔥 Sexy Game - Action ou Vérité PWA
 
 Une application web progressive (PWA) fun et sexy pour pimenter vos soirées en couple, entre sexfriends, ou à distance !  
