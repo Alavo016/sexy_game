@@ -31,8 +31,9 @@ cd sexy-game
 
 # 🔥 Sexy Game - Action ou Vérité PWA
 
-Voici les icônes principales du projet :
+## 🔥 Icônes de l'application
 
 | Icon 512x512 | Icon 192x192 |
 |--------------|--------------|
-| ![icon-512](https://github.com/user-attachments/assets/92df3fe6-4ef9-4b13-b288-4cea26ff636a) | ![icon-192](https://github.com/user-attachments/assets/97046c66-a245-4cfa-a09e-f0cdc9a1b5fb) |
+| ![icon-512](image/icon-512.png) | ![icon-192](image/icon-192.png) |
+
