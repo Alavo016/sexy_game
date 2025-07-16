@@ -20,6 +20,12 @@ Disponible sur mobile, tablettes et PC, sans installation complexe.
 
 ---
 
+## 🔥 Icônes de l'application
+
+| Icon 512x512 | Icon 192x192 |
+|--------------|--------------|
+| ![icon-512](image/icon-512.png) | ![icon-192](image/icon-192.png) |
+
 ## 🚀 Installation & déploiement
 
 ### En local (pour dev / test)
@@ -31,9 +37,5 @@ cd sexy-game
 
 # 🔥 Sexy Game - Action ou Vérité PWA
 
-## 🔥 Icônes de l'application
 
-| Icon 512x512 | Icon 192x192 |
-|--------------|--------------|
-| ![icon-512](image/icon-512.png) | ![icon-192](image/icon-192.png) |
 
