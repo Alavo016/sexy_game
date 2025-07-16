@@ -25,5 +25,5 @@ Disponible sur mobile, tablettes et PC, sans installation complexe.
 
 1. Cloner le repo  
 ```bash
-git clone https://github.com/tonpseudo/sexy-game.git
+git clone https://github.com/Alavo016/sexy_game
 cd sexy-game
